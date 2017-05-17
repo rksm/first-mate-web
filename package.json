@@ -1,0 +1,10 @@
+{
+   "dependencies" : {
+      "@pnidem/first-mate" : "^6.2.1"
+   },
+   "name" : "first-mate-browser",
+   "scripts" : {
+      "build" : "lasso --output-dir build --main main.js",
+      "build-web" : "lasso --output-dir build --main main.js --inject-into test.html"
+   }
+}
