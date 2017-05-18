@@ -1,9 +1,9 @@
 {
-   "name" : "first-mate-browser",
-   "dependencies" : {
-      "@pnidem/first-mate" : "^6.2.1"
-   },
-   "scripts" : {
-       "build" : "./build.sh"
-   }
+  "name": "first-mate-browser",
+  "dependencies": {
+    "@pnidem/first-mate": "^6.2.1"
+  },
+  "scripts": {
+    "build": "./build.sh"
+  }
 }
